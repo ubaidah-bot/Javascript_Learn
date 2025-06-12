@@ -1,1 +1,1 @@
-Follow the Code
+Javascript_cource
